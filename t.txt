@@ -1,3 +1,9 @@
 hello
+<<<<<<< Updated upstream
 y r here
 ghj
+=======
+hjk
+y r here
+>>>>>>> Stashed changes
+say hi
